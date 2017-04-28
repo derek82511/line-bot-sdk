@@ -1,0 +1,20 @@
+{
+  "name": "line-bot-sdk",
+  "version": "1.0.0",
+  "description": "Line Messaging API SDK for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derek82511/line-bot-sdk.git"
+  },
+  "author": "Derek Chang <derek82511@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derek82511/line-bot-sdk/issues"
+  },
+  "homepage": "https://github.com/derek82511/line-bot-sdk#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "co": "^4.6.0"
+  }
+}
